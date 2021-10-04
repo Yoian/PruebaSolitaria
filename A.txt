@@ -1,5 +1,7 @@
 Hola mundooo!
 Como estan? espero que esten bien
-Yo soy Ian
-Hey
-Hemos regresado a la verrsion exp para ver si puedo generar un pull request
+Yo soy Ian, tu quien eres?
+Hey, todo bien?
+AHora estpy en master
+Hare un commit con stashes
+Hemos regresado a la verrsion exp para ver si puedo generar un pull reques
