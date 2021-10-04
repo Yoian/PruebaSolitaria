@@ -4,4 +4,4 @@ Yo soy Ian, tu quien eres?
 Hey, todo bien?
 AHora estpy en master
 Hare un commit con stashes
-Hemos regresado a la verrsion exp para ver si puedo generar un pull reques
+Hemos regresado a la version exp para ver si puedo generar un pull request
